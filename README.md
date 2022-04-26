@@ -5,7 +5,7 @@
 
 - I’m currently working on **a Full-Stack eCommerce website.**
 
-- I’m currently learning **Angular**
+- I’m currently learning **Angular Framework**
 
 - How to reach me **JonRodriguez4898@gmail.com**
 
