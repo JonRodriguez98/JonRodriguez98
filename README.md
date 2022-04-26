@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jon Rodriguez</h1>
-<h3 align="center">A passionate Full-Stack Java Developer</h3>
+<h3 align="center">A passionate Full-Stack Java Developer from Pennsylvania</h3>
 
 - I’m currently working on **a Full-Stack eCommerce website.**
 
